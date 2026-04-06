@@ -21,12 +21,12 @@ Los datos utilizados en este dashboard fueron obtenidos de **Kaggle**.
 
 🚀 Valor Agregado (Mejoras Propias)
 ---
-A diferencia del informe base de Power BI, mi versión en Excel incluye:
+A diferencia del informe base de Power BI, mi versión en Excel incluye: gráficas y tarjetas que permitan comparar el rendimiento comercial y temporal de las ventas de chocolates.
 ----
 
 🛠️ ## Metodología y Herramientas
 
-Para este proyecto no solo repliqué el informe original, sino que analicé la información para generar una nueva propuesta que amplie las herramientas para la toma de decisiones. Con ese objetivo utilicé:
+Para este proyecto no solo repliqué el informe original, sino que analicé la información para generar una nueva propuesta que amplie las herramientas para la toma de decisiones. 
 
 * Power Query (ETL):
   Una vez conectados los datos con el csv de mi Github, transformé los datos en Power Query
