@@ -46,6 +46,14 @@ Tal y como se puede observar en la imagen anterior, creé cuatro medidas DAX (Da
 * m_ventas_año_anterior
 * m_%crecimiento_anual 
 
+---
+# Fuente iconos utilizados:
 
+* Barra de Chocolate:
+  https://www.flaticon.es/icono-gratis/chocolate_2234851?term=chocolate&page=1&position=12&origin=search&related_id=2234851
+* Vendedor:
+https://www.flaticon.es/icono-gratis/hombres_10206112?term=vendedor&page=1&position=31&origin=search&related_id=10206112
+
+  
 
 
