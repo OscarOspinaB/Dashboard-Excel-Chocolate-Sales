@@ -1,12 +1,19 @@
-# Dashboard-Excel-Chocolate-Sales 🍫
+# Dos Dashboard Excel y Power BI 🍫
 Es un Mínimo Producto Viable (MVP), 
 
 se espera proximamente crear semáforos y hojas complementarias.
-📊 Vistazo Dashboard
 
+📊 Vistazo Dashboard Excel
 ---
 
 <img width="1853" height="862" alt="image" src="https://github.com/user-attachments/assets/2ad05774-6f91-4eef-ba39-1f00732465ee" />
+
+📊 Vistazo Dashboard Power BI
+En el siguiente link pueden acceder al informe interactivo: 
+[Dashboard PBI](https://app.powerbi.com/view?r=eyJrIjoiNzFlZGU4OWUtNzY4Mi00ZGU3LThjZmYtNzVhMmY2ZTY4ZjY3IiwidCI6Ijk5ZTFlNzIxLTcxODQtNDk4ZS04YWZmLWIyYWQ0ZTUzYzFjMiIsImMiOjR9)
+---
+<img width="1393" height="676" alt="image" src="https://github.com/user-attachments/assets/efa4d24a-cdc7-457d-900f-849b0a0e1690" />
+
 
 
 ## 📂 Origen de los Datos
@@ -21,7 +28,7 @@ Los datos utilizados en este dashboard fueron obtenidos de **Kaggle**.
 
 🚀 Valor Agregado (Mejoras Propias)
 ---
-A diferencia del informe base de Power BI, mi versión en Excel incluye: gráficas y tarjetas que permitan comparar el rendimiento comercial y temporal de las ventas de chocolates.
+A diferencia del informe base de Power BI de Kaggle, mi versión en Excel y Power BI incluye: gráficas y tarjetas que permitan comparar el rendimiento comercial y temporal de las ventas de chocolates así como una nueva propuesta visual.
 ----
 
 🛠️ ## Metodología y Herramientas
