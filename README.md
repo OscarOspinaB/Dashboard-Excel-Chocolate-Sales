@@ -8,7 +8,8 @@ se espera proximamente crear semáforos y hojas complementarias.
 
 <img width="1853" height="862" alt="image" src="https://github.com/user-attachments/assets/2ad05774-6f91-4eef-ba39-1f00732465ee" />
 
-📊 Vistazo Dashboard Power BI
+📊 Vistazo Dashboard Power BI:
+--
 En el siguiente link pueden acceder al informe interactivo: 
 [Dashboard PBI](https://app.powerbi.com/view?r=eyJrIjoiNzFlZGU4OWUtNzY4Mi00ZGU3LThjZmYtNzVhMmY2ZTY4ZjY3IiwidCI6Ijk5ZTFlNzIxLTcxODQtNDk4ZS04YWZmLWIyYWQ0ZTUzYzFjMiIsImMiOjR9)
 ---
